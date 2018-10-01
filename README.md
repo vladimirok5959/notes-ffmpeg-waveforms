@@ -22,3 +22,9 @@ ffmpeg -i ./testdata/test.wav \
 	-frames:v 1 ./testdata/test_green.png
 ```
 ![Example green](https://raw.githubusercontent.com/vladimirok5959/notes-ffmpeg-waveforms/master/testdata/test_green.png)
+
+This can be useful for some audio service (website or application) to get waveform image from audio file. For example for playback progress bar, [soundcloud.com](https://soundcloud.com) is the best example.
+
+## Useful links
+[soundcloud.com](https://soundcloud.com)
+[Waveform – FFmpeg](https://trac.ffmpeg.org/wiki/Waveform)
