@@ -3,9 +3,10 @@
 ## Installing ffmpeg on Linux Debian
 ```
 apt-get install ffmpeg
+
+# After this operation, 300 MB of additional disk space will be used.
+# Do you want to continue? [Y/n]
 ```
-After this operation, 300 MB of additional disk space will be used.
-Do you want to continue? [Y/n]
 
 ## Create red waves from audio file
 ```
