@@ -26,5 +26,5 @@ ffmpeg -i ./testdata/test.wav \
 This can be useful for some audio service (website or application) to get waveform image from audio file. For example for playback progress bar, [soundcloud.com](https://soundcloud.com) is the best example.
 
 ## Useful links
-[soundcloud.com](https://soundcloud.com)
-[Waveform – FFmpeg](https://trac.ffmpeg.org/wiki/Waveform)
+* [soundcloud.com](https://soundcloud.com)
+* [Waveform – FFmpeg](https://trac.ffmpeg.org/wiki/Waveform)
